@@ -1,5 +1,5 @@
-@media not -moz-pref("neo.features.disable") {
-    @media not -moz-pref("neo.features.find-bar.disable") {
+@media not -moz-pref("neo.features.disabled") {
+    @media not -moz-pref("neo.features.find-bar.disabled") {
         findbar {
             position: absolute !important;
             align-self: center !important;

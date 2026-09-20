@@ -1,5 +1,5 @@
-@media not -moz-pref("neo.features.disable") {
-    @media not -moz-pref("neo.features.glance.disable") {
+@media not -moz-pref("neo.features.disabled") {
+    @media not -moz-pref("neo.features.glance.disabled") {
         @media -moz-pref("browser.tabs.allow_transparent_browser") {
             /* Yes Neo-Glance is based on sameeras code from transparent zen mod, please check the original code at https://sameerasw.com/*/
 

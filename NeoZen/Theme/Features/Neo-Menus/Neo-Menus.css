@@ -1,5 +1,5 @@
-@media not -moz-pref("neo.features.disable") {
-    @media not -moz-pref("neo.features.menu.disable") {
+@media not -moz-pref("neo.features.disabled") {
+    @media not -moz-pref("neo.features.menus.disabled") {
         :is(menupopup, panel):not(#notification-popup, #appMenu-notification-popup) {
             @media (-moz-platform: linux) {
                 --panel-background-color: var(--Neo-Popup-BG-Color) !important;

@@ -1,4 +1,4 @@
-@media not (-moz-pref("neo.features.disable")) {
+@media not (-moz-pref("neo.features.disabled")) {
     @media not (-moz-pref("neo.features.footer.disabled")) {
         @media not (-moz-bool-pref: "neo.features.workspace-button.hidden") {
             :root:not([customizing=""]):not([zen-creating-workspace="true"]) {

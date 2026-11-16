@@ -1,4 +1,4 @@
-@media not (-moz-pref("neo-theme-disabled")) {
+@media not (-moz-pref("neo.theme.disabled")) {
     @media (-moz-bool-pref: "neo-theme-experimental-window-buttons-enabled") {
         @media not (-moz-bool-pref: "zen.view.experimental-no-window-controls") {
             .titlebar-buttonbox {

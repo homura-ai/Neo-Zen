@@ -1,5 +1,5 @@
-@media not -moz-pref("neo.features.disable") {
-    @media not -moz-pref("neo.features.sidebar.panel.disable") {
+@media not -moz-pref("neo.features.disabled") {
+    @media not -moz-pref("neo.features.sidebar.panel.disabled") {
 
         #sidebar-main,
         #sidebar-box {

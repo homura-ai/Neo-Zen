@@ -1,4 +1,4 @@
-@media not (-moz-pref("neo-theme-disabled")) {
+@media not (-moz-pref("neo.theme.disabled")) {
     @media not (-moz-pref("neo-theme-sidebar-experimental-panel-enabled")) {
 
         #sidebar-box {

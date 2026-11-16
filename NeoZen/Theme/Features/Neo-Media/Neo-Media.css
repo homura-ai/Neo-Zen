@@ -1,5 +1,5 @@
-@media not -moz-pref("neo.features.disable") {
-    @media not -moz-pref("neo.features.media.disable") {
+@media not -moz-pref("neo.features.disabled") {
+    @media not -moz-pref("neo.features.media.disabled") {
         #zen-media-controls-toolbar:not([hidden])>toolbaritem {
             transition: border-radius 0.4s ease,
                         max-height 1s ease,

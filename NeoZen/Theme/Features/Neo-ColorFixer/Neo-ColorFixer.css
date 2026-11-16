@@ -1,8 +1,8 @@
 /* This file is used to override the default color scheme to fix the readability of some elements when the background opacity is set to the lowest value, 
 and also fixing the issue with the gradient generator not respecting the color scheme that you select due to the forced automation of the color scheme 
 when having a gradient or a color set*/
-@media not -moz-pref("neo.features.disable") {
-    @media not -moz-pref("neo.features.color-fixer.disable") {
+@media not -moz-pref("neo.features.disabled") {
+    @media not -moz-pref("neo.features.color-fixer.disabled") {
 
         /* ---------------------Transition flashbang fixer for the browser background --------------------- */
 

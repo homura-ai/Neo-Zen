@@ -114,6 +114,8 @@ Community contributions are welcome to improve cross‑platform support.
 
 > **License Update:** Starting from version 1.2.3, this project is licensed under GPL-3.0.  
 > Versions prior to 1.2.3 remain under the MIT License.
+>  
+> **This fork:** changes made in this fork are licensed under AGPL-3.0 with additional terms. See [LICENSING.md](LICENSING.md).
 
 ---
 

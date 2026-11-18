@@ -10,7 +10,7 @@ GPL-3.0 from version 1.2.3 onward, and MIT for versions up to 1.2.2.
 ## Changes made in this fork
 
 All changes made in this fork, starting with commit `c782e5a` (2026-11-16), are
-Copyright (C) 2026 Homura (https://github.com/01-1) and are licensed under the
+Copyright (C) 2026 [@01-1](https://github.com/01-1) and are licensed under the
 **GNU Affero General Public License, version 3 only** ([LICENSE-AGPL-3.0](LICENSE-AGPL-3.0)),
 with the additional terms below.
 
@@ -21,14 +21,14 @@ practice means AGPL-3.0.
 
 ### Additional terms (AGPL-3.0 section 7)
 
-These terms apply to the material Homura contributed:
+These terms apply to the material @01-1 contributed:
 
 a. It is provided without warranty, and its authors' liability is limited, as set out in sections 15 and 16 of the AGPL-3.0.
 b. Anyone who conveys it, modified or not, must keep this file, the copyright notice above and the author attribution intact.
-c. Modified versions must be clearly marked as modified, with a prominent notice and the date of the change, and must not be presented as the original or as made or endorsed by Homura.
-d. The names "Homura", "Vi" and "homura-ai" may not be used for publicity or to endorse or promote derived works without prior written permission.
+c. Modified versions must be clearly marked as modified, with a prominent notice and the date of the change, and must not be presented as the original or as made or endorsed by @01-1.
+d. The maintainer’s personal names and the name "homura-ai" may not be used for publicity or to endorse or promote derived works without prior written permission.
 e. No rights are granted to any trade names, trademarks or service marks.
-f. Anyone who conveys it with contractual assumptions of liability to the recipient must indemnify Homura for any liability those assumptions directly impose on her.
+f. Anyone who conveys it with contractual assumptions of liability to the recipient must indemnify @01-1 for any liability those assumptions directly impose on the maintainer.
 
 ## Modification notice (GPL-3.0 section 5a)
 
